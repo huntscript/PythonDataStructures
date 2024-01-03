@@ -1,6 +1,5 @@
 # PythonDataStructures
 This repository is a summary of common data structures in python.
-1. Lists
 - Lists
   - Empty lists
   - List of elements (string data type)
