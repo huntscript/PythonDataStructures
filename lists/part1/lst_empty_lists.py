@@ -1,8 +1,8 @@
 # Empty lists 
 
-# Create a list using square braquets
+# Creating a list using square braquets
 a_list = []
-# Create a list using the list() function
+# Creating a list using the list() function
 another list = list()
 
 print(a_list) # print the first list
