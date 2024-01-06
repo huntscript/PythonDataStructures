@@ -4,7 +4,7 @@
 scores = [10.9, 15.8, 20.4]
 ages = [19, 17, 15, 18]
 
-# print the scores and ages
+# print scores and ages
 print(scores) 
 print(ages)
 # print the length of 'scores' 
