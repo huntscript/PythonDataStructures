@@ -1,6 +1,6 @@
 # Empty lists 
 
-# Creating a list using square braquets
+# Creating a list using square brackets
 a_list = []
 # Creating a list using the list() function
 another list = list()
