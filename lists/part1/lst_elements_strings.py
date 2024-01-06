@@ -1,6 +1,6 @@
 # List of strings
 
-# Creating a list of strings
+# Creating lists of string objects
 fav = ["Python", "C++", "C#"]
 names = ["Ken","Hunter"]
 
