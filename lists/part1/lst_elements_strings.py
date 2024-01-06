@@ -10,4 +10,4 @@ print(names)
 # print the length of 'fav' 
 print("'fav' has", len(fav), "favorites.") 
 # print the length of 'names' 
-print("'fav' has", len(names), "names.")
+print("'names' has", len(names), "names.")
