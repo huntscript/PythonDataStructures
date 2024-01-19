@@ -1,7 +1,7 @@
 # Python Data Structures
 ![dspython](93F74F5C-B26D-4347-9F0D-79FE896B89C8.png)
 
-## Summary of common data structures in python and different ways to use them
+## Summary of Common Data Structures in Python and Different ways to use them
  
 ### Lists
 
