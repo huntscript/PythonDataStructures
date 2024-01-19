@@ -3,8 +3,9 @@
 
 ## Summary of common data structures in python and different ways to use them
  
-- Lists
-  * Part 1
+### Lists
+
+  - Part 1
     - [Empty lists](lists/part1/lst_empty_lists.py)
     - [List of elements (string data type)](lists/part1/lst_elements_strings.py)
     - [List of elements (numeric data types)](lists/part1/lst_elements_numbers.py)
