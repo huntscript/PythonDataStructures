@@ -4,7 +4,7 @@
 ## Summary of Common Data Structures in Python and Different ways to use them
 
 ### Lists
-###### YouTube Playlist: [Data Structures in python](https://youtube.com/playlist?list=PLpJJEVLtpZo9csSa1VDJnKmLghzXSOwnZ&si=wwkGucVcJ7BsKnI1) 
+###### YouTube Video Playlist: [Data Structures in python](https://youtube.com/playlist?list=PLpJJEVLtpZo9csSa1VDJnKmLghzXSOwnZ&si=wwkGucVcJ7BsKnI1) 
 
   - Creating lists
    
