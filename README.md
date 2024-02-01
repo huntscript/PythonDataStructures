@@ -17,9 +17,7 @@
 
     - [print the entire list using print and list comprehension]()
     - [print each element of the list individually using for loop and list comprehension]()
-    - [rint each element of the list individually and add separator between the elements
-     of the list using sep parameter]()
-    - [rint each element of the list individually and add separator between the elements
-     of the list using end parameter]()
+    - [rint each element of the list individually and add separator between the elements of the list using sep parameter]()
+    - [rint each element of the list individually and add separator between the elements of the list using end parameter]()
 
 
