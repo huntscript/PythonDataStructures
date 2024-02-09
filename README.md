@@ -17,7 +17,7 @@
 
     - [Print an entire list using print and list comprehension](lists/part2/printlists_print.py)
     - [Print each element of a list individually using for loop and list comprehension](lists/part2/printlists_forloop_and_comprehension.py)
-    - [Print each element of a list individually and add separator between the elements of the list using sep parameter](lists/part2/printlists_sep_parameter.py)
-    - [Print each element of a list individually and add separator between the elements of the list using end parameter](lists/part2/printlists_end_parameter.py)
+    - [Print each element of a list individually and add a separator between the elements of the list using sep parameter](lists/part2/printlists_sep_parameter.py)
+    - [Print each element of a list individually and add a separator between the elements of the list using end parameter](lists/part2/printlists_end_parameter.py)
 
 
