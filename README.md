@@ -1,23 +1,19 @@
 # Python Data Structures
 ![dspython](93F74F5C-B26D-4347-9F0D-79FE896B89C8.png)
 
-## Summary of Common Data Structures in Python and Different ways to use them
+## Overview of Common Data Structures in Python and Various Utilization Techniques
 
 ### Lists
-###### YouTube Video Playlist: [Data Structures in python](https://youtube.com/playlist?list=PLpJJEVLtpZo9csSa1VDJnKmLghzXSOwnZ&si=wwkGucVcJ7BsKnI1) 
+###### YouTube Video Playlist: [Data Structures in Python](https://youtube.com/playlist?list=PLpJJEVLtpZo9csSa1VDJnKmLghzXSOwnZ&si=wwkGucVcJ7BsKnI1) 
 
-  - Creating lists
-   
-    - [Empty lists](lists/part1/lst_empty_lists.py)
-    - [List of elements (string data type)](lists/part1/lst_elements_strings.py)
-    - [List of elements (numeric data types)](lists/part1/lst_elements_numbers.py)
-    - [List of elements (mixed data types)](lists/part1/lst_elements_mixed.py)
+- **Creating Lists:**
+   - [Empty Lists](lists/part1/lst_empty_lists.py)
+   - [List of Elements (String Data Type)](lists/part1/lst_elements_strings.py)
+   - [List of Elements (Numeric Data Types)](lists/part1/lst_elements_numbers.py)
+   - [List of Elements (Mixed Data Types)](lists/part1/lst_elements_mixed.py)
       
-  - Printing lists
-
-    - [Print an entire list using print and list comprehension](lists/part2/printlists_print.py)
-    - [Print each element of a list individually using for loop and list comprehension](lists/part2/printlists_forloop_and_comprehension.py)
-    - [Print each element of a list individually and add a separator between the elements of the list using sep parameter](lists/part2/printlists_sep_parameter.py)
-    - [Print each element of a list individually and add a separator between the elements of the list using end parameter](lists/part2/printlists_end_parameter.py)
-
-
+- **Printing Lists:**
+   - [Printing an Entire List using Print and List Comprehension](lists/part2/printlists_print.py)
+   - [Printing Each Element of a List Individually using For Loop and List Comprehension](lists/part2/printlists_forloop_and_comprehension.py)
+   - [Printing Each Element of a List Individually with a Separator between Elements using the sep Parameter](lists/part2/printlists_sep_parameter.py)
+   - [Printing Each Element of a List Individually with a Separator between Elements using the end Parameter](lists/part2/printlists_end_parameter.py)
