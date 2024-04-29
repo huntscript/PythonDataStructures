@@ -7,16 +7,16 @@
 ###### YouTube Video Playlist: [Data Structures in Python](https://youtube.com/playlist?list=PLpJJEVLtpZo9csSa1VDJnKmLghzXSOwnZ&si=wwkGucVcJ7BsKnI1)
 
 - **Creating Lists:**
-   - [Empty Lists](lists/part1/lst_empty_lists.py)
-   - [List of Elements (String Data Type)](lists/part1/lst_elements_strings.py)
-   - [List of Elements (Numeric Data Types)](lists/part1/lst_elements_numbers.py)
-   - [List of Elements (Mixed Data Types)](lists/part1/lst_elements_mixed.py)
+   - [Empty Lists](https://github.com/huntscript/PythonDataStructures/blob/main/lists/part1/lst_empty_lists.py)
+   - [List of Elements (String Data Type)](https://github.com/huntscript/PythonDataStructures/blob/main/lists/part1/lst_elements_strings.py)
+   - [List of Elements (Numeric Data Types)](https://github.com/huntscript/PythonDataStructures/blob/main/lists/part1/lst_elements_numbers.py)
+   - [List of Elements (Mixed Data Types)](https://github.com/huntscript/PythonDataStructures/blob/main/lists/part1/lst_elements_mixed.py)
       
 - **Printing Lists:**
-   - [Printing an Entire List using Print and List Comprehension](lists/part2/printlists_print.py)
-   - [Printing Each Element of a List Individually using For Loop and List Comprehension](lists/part2/printlists_forloop_and_comprehension.py)
-   - [Printing Each Element of a List Individually with a Separator between Elements using the sep Parameter](lists/part2/printlists_sep_parameter.py)
-   - [Printing Each Element of a List Individually with a Separator between Elements using the end Parameter](lists/part2/printlists_end_parameter.py)
+   - [Printing an Entire List using Print and List Comprehension](https://github.com/huntscript/PythonDataStructures/blob/main/lists/part2/printlists_print.py)
+   - [Printing Each Element of a List Individually using For Loop and List Comprehension](https://github.com/huntscript/PythonDataStructures/blob/main/lists/part2/printlists_forloop_and_comprehension.py)
+   - [Printing Each Element of a List Individually with a Separator between Elements using the sep Parameter](https://github.com/huntscript/PythonDataStructures/blob/main/lists/part2/printlists_sep_parameter.py)
+   - [Printing Each Element of a List Individually with a Separator between Elements using the end Parameter](https://github.com/huntscript/PythonDataStructures/blob/main/lists/part2/printlists_end_parameter.py)
 
 ---
 
