@@ -20,4 +20,4 @@
 
 ---
 
-This work is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This work is licensed under the MIT License. See the [LICENSE](https://github.com/huntscript/PythonDataStructures/blob/main/LICENSE.txt)) file for details.
